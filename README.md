@@ -42,6 +42,10 @@ Counter homework
 
 <img src="screenshots/homeworks.png" width="500">
 
+When Rotating the device the current state of the app is saved
+
+<img src="screenshots/homework2.gif" width="500">
+
 ## Answer these questions
 
 ### Question 1
