@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.Button;
 
 public class SecondActivity extends AppCompatActivity {
-    public static final String EXTRA_REPLY = "com.example.android.twoactivities.extra.REPLY";
+    public static final String EXTRA_REPLY = "com.example.android.activities.extra.REPLY";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
