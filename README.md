@@ -14,6 +14,8 @@ When using the app
 
 <img src="screenshots/activitiesTask2.png">
 
+<img src="screenshots/activities2.gif">
+
 When app is close
 
 <img src="screenshots/activitiesTask2.png">
