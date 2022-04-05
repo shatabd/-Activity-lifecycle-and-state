@@ -13,7 +13,7 @@ public class SecondActivity extends AppCompatActivity {
 
     private static final String LOG_TAG = SecondActivity.class.getSimpleName();
     public static final String EXTRA_REPLY =
-            "com.example.android.twoactivities.extra.REPLY";
+            "com.example.android.activities.extra.REPLY";
 
     private EditText mReply;
 
