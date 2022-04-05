@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 private static final String LOG_TAG=MainActivity.class.getSimpleName();
-public static final String EXTRA_MESSAGE= "com.example.android.activities.extra.MESSAGE";
+public static final String EXTRA_MESSAGE= "com.example.android.activitylifecyclechallenge.extra.MESSAGE";
     public static final int TEXT_REQUEST = 1;
     private TextView mReplyTextView;
     private int[] textviewId_List = new int[] {R.id.item1, R.id.item2, R.id.item3, R.id.item4, R.id.item5,R.id.item6,
